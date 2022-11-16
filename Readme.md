@@ -69,7 +69,7 @@ El circuito se divide en diferentes secciones:
 
   La configuración del amplificador en esta sección es de un sumador inversor, como se requiere una ganancia de 1 para que no exista algún tipo de alteración en la señal de entrada, las resistencias conectadas a la entrada inversora del amplificador tienen que ser del mismo valor. 
 
-  ![](Sumador inversor.png)
+  ![](Sumadorinversor.png)
 
   ​                                                                              Fig 2. Configuración de un sumador
 
@@ -87,7 +87,7 @@ El circuito se divide en diferentes secciones:
 
     El filtro notch se realizo de acuerdo al siguiente modelo:
 
-    ![](Filtro Notch.png)
+    ![](FiltroNotch.png)
 
     ​                                                                                                       Fig 3. Filtro notch
 
